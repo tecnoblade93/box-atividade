@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boxe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            line-height: 1.7;
+            color: #333;
+            padding: 20px;
+        }
+
+
+        h1 {
+            color: #b30000;
+            text-align: center;
+        }
+
+
+        h2 {
+            color: #8b0000;
+            margin-top: 30px;
+        }
+
+
+        p {
+            text-align: justify;
+        }
+
+
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+
+    <h1>BOXE</h1>
+
+
+    <p>
+        O boxe é uma arte milenar que envolve combates com punhos, disputados em rounds.
+        É uma competição com regras rígidas, dividida em duas modalidades: profissional e olímpica.
+    </p>
+
+
+    <p>
+        O boxe é uma modalidade de combate que envolve apenas o uso dos punhos, realizada
+        com luvas em um ringue. O objetivo é nocautear o oponente ou acumular pontos durante
+        os rounds. Originado há milhares de anos, teve seu renascimento na Inglaterra, através
+        de competições amadoras que evoluíram para o profissionalismo.
+    </p>
+
+
+    <p>
+        As regras do boxe incluem o uso exclusivo dos punhos, limites de áreas de impacto
+        e a obrigatoriedade de luvas. As lutas são decididas por pontos, nocautes, quedas,
+        nocautes técnicos ou desistências.
+    </p>
+
+
+    <p>
+        Existem diferentes tipos de boxe, como o olímpico e o profissional, cada um com
+        suas especificidades. Os golpes incluem jab, direto, cruzado e gancho.
+        Infrações como golpes nos braços e agarrar são penalizadas ou não pontuadas.
+        A classificação dos boxeadores é feita por peso.
+    </p>
+
+
+    <p>
+        No Brasil, o esporte possui uma história marcante, com nomes como Éder Jofre,
+        Popó, Kaled Curi e Maguila, além de conquistas recentes em competições internacionais.
+    </p>
+
+
+    <h2>História do Boxe</h2>
+
+
+    <p>
+        O boxe nasceu na Mesopotâmia por volta do ano 3000 a.C., percorrendo o Egito e a Grécia,
+        até renascer na Inglaterra entre os séculos XVII e XIX.
+    </p>
+
+
+    <p>
+        No Brasil, a luta chegou no início do século XX, destacando-se a primeira luta em
+        São Paulo, em 1913, da qual participou o atleta Luis Sucupira, conhecido como
+        "Apolo Brasileiro". Ele foi um dos primeiros entusiastas do esporte no país.
+    </p>
+
+
+    <p>
+        Outro importante incentivador do boxe foi o marinheiro Góes Neto, que em 1919 trouxe
+        para o Brasil técnicas aprendidas na Europa. Seu contato com parentes do presidente
+        Rodrigues Alves contribuiu para a disseminação do esporte.
+    </p>
+
+
+    <p>
+        A partir de 1920, o boxe ganhou maior estrutura com a criação de comissões municipais
+        em cidades como Rio de Janeiro, São Paulo e Santos.
+    </p>
+
+
+    <p>
+        Ao longo das décadas seguintes, o boxe brasileiro revelou grandes nomes como Éder Jofre,
+        Popó, Kaled Curi e Maguila, consolidando o esporte no país.
+    </p>
+
+
+    <h2>Boxe Brasileiro em 2023</h2>
+
+
+    <p>
+        O ano de 2023 foi marcante para o boxe brasileiro, com:
+    </p>
+
+
+    <ul>
+        <li>4 medalhas em campeonatos mundiais;</li>
+        <li>12 pódios nos Jogos Pan-Americanos, a melhor campanha da história do país;</li>
+        <li>9 classificações olímpicas para Paris 2024.</li>
+    </ul>
+
+
+    <h2>Golpes do Boxe</h2>
+
+
+    <p>Os principais tipos de socos presentes no boxe são:</p>
+
+
+    <ul>
+        <li><strong>Jab:</strong> soco reto dado com a mão que está na frente da guarda.</li>
+        <li><strong>Direto:</strong> soco reto dado com a mão que está atrás na guarda.</li>
+        <li><strong>Cruzado:</strong> soco aplicado na lateral do adversário.</li>
+        <li><strong>Gancho:</strong> soco dado de baixo para cima, mirando o queixo do adversário.</li>
+    </ul>
+
+
+</body>
+</html>
